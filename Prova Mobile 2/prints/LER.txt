@@ -1,0 +1,1 @@
+Prof, como deixei escrito na folha de prova, o a barrinha de Scroll do ScrollView não aparece nas prints pois usei uma extensão do chrome como método para ver as telas, e a mesma não dá suporte para mover com clique do mouse, mas o scroll do próprio mouse funciona.
